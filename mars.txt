@@ -1,4 +1,8 @@
 text
 changes to the text
- 
+
+Corrections to code:
 another line added by Pablo
+
+This is a modification od david 
+
